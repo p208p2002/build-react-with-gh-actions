@@ -1,4 +1,4 @@
-# build react with github action
+# build react with github actions
 ![Build and Deploy](https://github.com/p208p2002/build-react-with-gh-action/workflows/Build%20and%20Deploy/badge.svg)
 ### refs
 - [https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow](https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow)
