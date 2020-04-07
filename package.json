@@ -1,5 +1,6 @@
 {
   "name": "gh-build-react",
+  "homepage": "https://p208p2002.github.io/build-react-with-gh-action",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
